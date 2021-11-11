@@ -4,7 +4,7 @@ This guide shows you how to set up a basic product detail page using Commerce.js
 
 This guide uses the [Commerce.js](https://commercejs.com/) SDK (v2).
 
-[View the live demo](https://po30k.csb.app/)
+[View the live demo](https://aiz-react-threejs.vercel.app)
 
 ![Product detail page example](public/assets/Jacket.gif)
 
